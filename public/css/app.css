@@ -1,0 +1,97 @@
+/*home*/
+/*Skill*/
+/*Service*/
+/*Footer*/
+/**************************************
+HOME--navegation @andresshare
+****************************************/
+.cajaHome {
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+  color: white;
+  background-image: url("https://static.pexels.com/photos/265626/pexels-photo-265626.jpeg");
+  height: 550px; }
+
+.tituloCentral {
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+  color: white;
+  height: 50px;
+  padding-top: 0.8%; }
+
+.tituloFrase {
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+  color: white;
+  height: 30px;
+  margin-top: -3%; }
+
+.cajaTexto {
+  background: rgba(39, 123, 145, 0.35); }
+
+/*FIN-home*/
+/**************************************
+ WORK @andresshare
+****************************************/
+#textoWork {
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px; }
+
+.cajaWork {
+  height: 200px; }
+
+.cajaWorkServicios {
+  height: 550px; }
+
+.cajaServicios {
+  height: 550px; }
+
+/*FIN-work*/
+/**************************************
+ Skills @andresshare 
+***************************************/
+.color {
+  background-color: #264040;
+  color: #E5DFDF; }
+
+.box {
+  width: 400px;
+  height: 200px; }
+
+li {
+  list-style-type: none; }
+
+/* FIN skill */
+/**************************************
+Service @andresshare
+***************************************/
+.card-header {
+  background-color: #F8F9FA;
+  border-bottom: 0px rgba(0, 0, 0, 0.125); }
+
+.card-header:first-child {
+  border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0; }
+
+/*END-service */
+/**************************************
+FORM @andresshare
+****************************************/
+textarea {
+  resize: none; }
+
+/* END-form*/
+/**************************************
+FOOTER @andresshare
+**************************************/
+footer {
+  background-color: #282727;
+  color: white; }
+
+/*END-footer*/
+/**************************************
+ajuste general
+**************************************/
+body {
+  background: #D7DADC; }
+
+/*# sourceMappingURL=app.css.map */
