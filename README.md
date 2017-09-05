@@ -1,7 +1,5 @@
-# andresshare
-
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+# andresshare/test/
+![N|Solid](https://image.ibb.co/mbs7Ta/webandresshare.png)
 
 ## Prerequisites
 
